@@ -1,0 +1,60 @@
+	*{
+		margin:0;
+		padding:0;
+	}
+	.wrap{
+		position: relative;
+		width:100%;
+		margin:0 auto;
+		color:#fff;
+		border:1px solid #000;
+		box-sizing:border-box;
+		background-color: #000;
+		font-family: Arial;
+	}
+/*	.wrap table tr{
+		width:100%;
+		height:40px;
+	}
+*/	.wrap table tr td{
+		width:2em;
+		height:1.5em;
+		border-radius: 50%;
+		box-sizing:border-box;
+	}
+	.red{
+		background-color: red;
+	}
+	.score{
+		text-align: center;
+		font-size:3em;
+	}
+	.btn{
+		width:1.5em;
+		height:2em;
+		display: block;
+		background:url(../th.jpg) no-repeat;
+		border:0;
+	}
+	.topBtn{
+		margin: 0 auto;
+		background-position: 0 0;
+	}
+	.bottomBtn{
+		margin:0 auto;
+		background-position: -20px 0;
+	}
+	.leftBtn{
+		float:left;
+		background-position: 0 -35px;		
+	}
+	.rightBtn{
+		float:right;
+		background-position:-20px -35px;
+	}
+	.clear{
+		clear:both;
+	}
+	.moblieBtn{
+		margin-top:2em;
+	}
