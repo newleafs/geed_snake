@@ -30,8 +30,8 @@
 		font-size:3em;
 	}
 	.btn{
-		width:1.5em;
-		height:2em;
+		width:3em;
+		height:4em;
 		display: block;
 		background:url(../th.jpg) no-repeat;
 		border:0;
@@ -42,19 +42,16 @@
 	}
 	.bottomBtn{
 		margin:0 auto;
-		background-position: -20px 0;
+		background-position: -40px 0;
 	}
 	.leftBtn{
 		float:left;
-		background-position: 0 -35px;		
+		background-position: 0 -70px;		
 	}
 	.rightBtn{
 		float:right;
-		background-position:-20px -35px;
+		background-position:-40px -70px;
 	}
 	.clear{
 		clear:both;
-	}
-	.moblieBtn{
-		margin-top:2em;
 	}
